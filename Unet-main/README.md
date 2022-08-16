@@ -1,4 +1,4 @@
-# Unet++ for Weizmann Horse Database
+# Unet for Horse Database
 
 
 
