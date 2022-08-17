@@ -41,11 +41,9 @@ In the project:
 
 ## Prepare Your Data
 
-1. Please obtain the dataset from [Weizmann Horse Database | Kaggle](https://www.kaggle.com/datasets/ztaihong/weizmann-horse-database/metadata).
-2. The dataset contains 327 images of horses and masked images.
-3. In the train you need to change **"root"** to an **absolute path** to the weizmann_horse_db.
-4. I used the **first 85%** of the images in the dataset for training and the **second 15%** for testing.
-5. The final path structure used in my code looks like this:
+1. Please download the dataset from [Weizmann Horse Database | Kaggle](https://www.kaggle.com/datasets/ztaihong/weizmann-horse-database/metadata).
+2. I used the **first 85%** of the images in the dataset for training and the **second 15%** for testing.
+3. The final path structure used in my code looks like this:
 
 ````
 $PATH_TO_DATASET/horse/weizmann_horse_db
